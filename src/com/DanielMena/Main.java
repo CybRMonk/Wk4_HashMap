@@ -27,7 +27,7 @@ public class Main {
 
         System.out.println("enter snow for " + month);
         int snow = Integer.parseInt(textScanner.nextLine());
-
+        // push to githum
 
         snowfall.put(month,snow);
         System.out.println("Here's the new data");
